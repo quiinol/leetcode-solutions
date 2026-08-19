@@ -1,0 +1,15 @@
+[
+  {
+    "problemId": "73",
+    "problemTitle": "Set Matrix Zeroes",
+    "problemSlug": "set-matrix-zeroes",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "129 ms",
+    "memory": "47.7 MB",
+    "submissionId": "2112631253",
+    "timestamp": "1787139744",
+    "path": "Medium/0073_Set_Matrix_Zeroes.java"
+  }
+]
