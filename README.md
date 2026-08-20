@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 5
+Total Solved: 6
 
 ## Easy
 
 - Roman to Integer ([Java](Easy/0013_Roman_to_Integer.java))
+- Longest Common Prefix ([Java](Easy/0014_Longest_Common_Prefix.java))
 
 ## Medium
 
@@ -21,7 +22,7 @@ Total Solved: 5
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 1 |
+| Easy | 2 |
 | Medium | 4 |
 | Hard | 0 |
 
