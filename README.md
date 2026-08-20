@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 4
+Total Solved: 5
 
 ## Easy
 
-*No easy problems solved yet.*
+- Roman to Integer ([Java](Easy/0013_Roman_to_Integer.java))
 
 ## Medium
 
@@ -21,7 +21,7 @@ Total Solved: 4
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 0 |
+| Easy | 1 |
 | Medium | 4 |
 | Hard | 0 |
 
