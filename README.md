@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 1
+Total Solved: 2
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 1
 
 ## Medium
 
+- Longest Substring Without Repeating Characters ([Java](Medium/0003_Longest_Substring_Without_Repeating_Characters.java))
 - Set Matrix Zeroes ([Java](Medium/0073_Set_Matrix_Zeroes.java))
 
 ## Hard
@@ -19,7 +20,7 @@ Total Solved: 1
 | Difficulty | Count |
 |------------|--------|
 | Easy | 0 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
 
 ---
