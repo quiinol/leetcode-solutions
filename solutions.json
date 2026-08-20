@@ -11,5 +11,18 @@
     "submissionId": "2112631253",
     "timestamp": "1787139744",
     "path": "Medium/0073_Set_Matrix_Zeroes.java"
+  },
+  {
+    "problemId": "3",
+    "problemTitle": "Longest Substring Without Repeating Characters",
+    "problemSlug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "37 ms",
+    "memory": "48 MB",
+    "submissionId": "2113761736",
+    "timestamp": "1787218984",
+    "path": "Medium/0003_Longest_Substring_Without_Repeating_Characters.java"
   }
 ]
