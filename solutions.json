@@ -63,5 +63,18 @@
     "submissionId": "2114345716",
     "timestamp": "1787250968",
     "path": "Easy/0013_Roman_to_Integer.java"
+  },
+  {
+    "problemId": "14",
+    "problemTitle": "Longest Common Prefix",
+    "problemSlug": "longest-common-prefix",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.1 MB",
+    "submissionId": "2114428305",
+    "timestamp": "1787257200",
+    "path": "Easy/0014_Longest_Common_Prefix.java"
   }
 ]
