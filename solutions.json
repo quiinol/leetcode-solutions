@@ -37,5 +37,18 @@
     "submissionId": "2113817051",
     "timestamp": "1787222207",
     "path": "Medium/0151_Reverse_Words_in_a_String.java"
+  },
+  {
+    "problemId": "5",
+    "problemTitle": "Longest Palindromic Substring",
+    "problemSlug": "longest-palindromic-substring",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "17 ms",
+    "memory": "43.5 MB",
+    "submissionId": "2114008914",
+    "timestamp": "1787234764",
+    "path": "Medium/0005_Longest_Palindromic_Substring.java"
   }
 ]
