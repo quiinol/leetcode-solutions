@@ -50,5 +50,18 @@
     "submissionId": "2114008914",
     "timestamp": "1787234764",
     "path": "Medium/0005_Longest_Palindromic_Substring.java"
+  },
+  {
+    "problemId": "13",
+    "problemTitle": "Roman to Integer",
+    "problemSlug": "roman-to-integer",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "4 ms",
+    "memory": "47.2 MB",
+    "submissionId": "2114345716",
+    "timestamp": "1787250968",
+    "path": "Easy/0013_Roman_to_Integer.java"
   }
 ]
