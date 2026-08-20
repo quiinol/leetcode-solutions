@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 3
+Total Solved: 4
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 3
 ## Medium
 
 - Longest Substring Without Repeating Characters ([Java](Medium/0003_Longest_Substring_Without_Repeating_Characters.java))
+- Longest Palindromic Substring ([Java](Medium/0005_Longest_Palindromic_Substring.java))
 - Set Matrix Zeroes ([Java](Medium/0073_Set_Matrix_Zeroes.java))
 - Reverse Words in a String ([Java](Medium/0151_Reverse_Words_in_a_String.java))
 
@@ -21,7 +22,7 @@ Total Solved: 3
 | Difficulty | Count |
 |------------|--------|
 | Easy | 0 |
-| Medium | 3 |
+| Medium | 4 |
 | Hard | 0 |
 
 ---
