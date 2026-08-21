@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 6
+Total Solved: 7
 
 ## Easy
 
@@ -13,6 +13,7 @@ Total Solved: 6
 - Longest Palindromic Substring ([Java](Medium/0005_Longest_Palindromic_Substring.java))
 - Set Matrix Zeroes ([Java](Medium/0073_Set_Matrix_Zeroes.java))
 - Reverse Words in a String ([Java](Medium/0151_Reverse_Words_in_a_String.java))
+- Repeated String Match ([Java](Medium/0686_Repeated_String_Match.java))
 
 ## Hard
 
@@ -23,7 +24,7 @@ Total Solved: 6
 | Difficulty | Count |
 |------------|--------|
 | Easy | 2 |
-| Medium | 4 |
+| Medium | 5 |
 | Hard | 0 |
 
 ---
