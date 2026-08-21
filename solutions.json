@@ -89,5 +89,18 @@
     "submissionId": "2114888411",
     "timestamp": "1787304569",
     "path": "Medium/0686_Repeated_String_Match.java"
+  },
+  {
+    "problemId": "8",
+    "problemTitle": "String to Integer (atoi)",
+    "problemSlug": "string-to-integer-atoi",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "43.8 MB",
+    "submissionId": "2115155317",
+    "timestamp": "1787323250",
+    "path": "Medium/0008_String_to_Integer_atoi.java"
   }
 ]
