@@ -76,5 +76,18 @@
     "submissionId": "2114428305",
     "timestamp": "1787257200",
     "path": "Easy/0014_Longest_Common_Prefix.java"
+  },
+  {
+    "problemId": "686",
+    "problemTitle": "Repeated String Match",
+    "problemSlug": "repeated-string-match",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "265 ms",
+    "memory": "43.9 MB",
+    "submissionId": "2114888411",
+    "timestamp": "1787304569",
+    "path": "Medium/0686_Repeated_String_Match.java"
   }
 ]
