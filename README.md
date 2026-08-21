@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 8
+Total Solved: 9
 
 ## Easy
 
 - Roman to Integer ([Java](Easy/0013_Roman_to_Integer.java))
 - Longest Common Prefix ([Java](Easy/0014_Longest_Common_Prefix.java))
+- Find the Index of the First Occurrence in a String ([Java](Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.java))
 
 ## Medium
 
@@ -24,7 +25,7 @@ Total Solved: 8
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 2 |
+| Easy | 3 |
 | Medium | 6 |
 | Hard | 0 |
 
