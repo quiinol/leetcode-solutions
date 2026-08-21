@@ -102,5 +102,18 @@
     "submissionId": "2115155317",
     "timestamp": "1787323250",
     "path": "Medium/0008_String_to_Integer_atoi.java"
+  },
+  {
+    "problemId": "28",
+    "problemTitle": "Find the Index of the First Occurrence in a String",
+    "problemSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.1 MB",
+    "submissionId": "2115450266",
+    "timestamp": "1787339252",
+    "path": "Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.java"
   }
 ]
