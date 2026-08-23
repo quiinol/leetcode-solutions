@@ -154,5 +154,18 @@
     "submissionId": "2117811450",
     "timestamp": "1787517894",
     "path": "Easy/0118_Pascals_Triangle.java"
+  },
+  {
+    "problemId": "31",
+    "problemTitle": "Next Permutation",
+    "problemSlug": "next-permutation",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "44.7 MB",
+    "submissionId": "2117811693",
+    "timestamp": "1787517927",
+    "path": "Medium/0031_Next_Permutation.java"
   }
 ]
