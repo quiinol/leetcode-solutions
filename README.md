@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 13
+Total Solved: 14
 
 ## Easy
 
@@ -16,6 +16,7 @@ Total Solved: 13
 - String to Integer (atoi) ([Java](Medium/0008_String_to_Integer_atoi.java))
 - Next Permutation ([Java](Medium/0031_Next_Permutation.java))
 - Count and Say ([Java](Medium/0038_Count_and_Say.java))
+- Maximum Subarray ([Java](Medium/0053_Maximum_Subarray.java))
 - Set Matrix Zeroes ([Java](Medium/0073_Set_Matrix_Zeroes.java))
 - Reverse Words in a String ([Java](Medium/0151_Reverse_Words_in_a_String.java))
 - Compare Version Numbers ([Java](Medium/0165_Compare_Version_Numbers.java))
@@ -30,7 +31,7 @@ Total Solved: 13
 | Difficulty | Count |
 |------------|--------|
 | Easy | 4 |
-| Medium | 9 |
+| Medium | 10 |
 | Hard | 0 |
 
 ---
