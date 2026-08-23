@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 10
+Total Solved: 11
 
 ## Easy
 
@@ -16,6 +16,7 @@ Total Solved: 10
 - Count and Say ([Java](Medium/0038_Count_and_Say.java))
 - Set Matrix Zeroes ([Java](Medium/0073_Set_Matrix_Zeroes.java))
 - Reverse Words in a String ([Java](Medium/0151_Reverse_Words_in_a_String.java))
+- Compare Version Numbers ([Java](Medium/0165_Compare_Version_Numbers.java))
 - Repeated String Match ([Java](Medium/0686_Repeated_String_Match.java))
 
 ## Hard
@@ -27,7 +28,7 @@ Total Solved: 10
 | Difficulty | Count |
 |------------|--------|
 | Easy | 3 |
-| Medium | 7 |
+| Medium | 8 |
 | Hard | 0 |
 
 ---
