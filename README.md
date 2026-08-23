@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 14
+Total Solved: 15
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 14
 - Count and Say ([Java](Medium/0038_Count_and_Say.java))
 - Maximum Subarray ([Java](Medium/0053_Maximum_Subarray.java))
 - Set Matrix Zeroes ([Java](Medium/0073_Set_Matrix_Zeroes.java))
+- Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Reverse Words in a String ([Java](Medium/0151_Reverse_Words_in_a_String.java))
 - Compare Version Numbers ([Java](Medium/0165_Compare_Version_Numbers.java))
 - Repeated String Match ([Java](Medium/0686_Repeated_String_Match.java))
@@ -31,7 +32,7 @@ Total Solved: 14
 | Difficulty | Count |
 |------------|--------|
 | Easy | 4 |
-| Medium | 10 |
+| Medium | 11 |
 | Hard | 0 |
 
 ---
