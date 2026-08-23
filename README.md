@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-Total Solved: 11
+Total Solved: 12
 
 ## Easy
 
 - Roman to Integer ([Java](Easy/0013_Roman_to_Integer.java))
 - Longest Common Prefix ([Java](Easy/0014_Longest_Common_Prefix.java))
 - Find the Index of the First Occurrence in a String ([Java](Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.java))
+- Pascal's Triangle ([Java](Easy/0118_Pascals_Triangle.java))
 
 ## Medium
 
@@ -27,7 +28,7 @@ Total Solved: 11
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 3 |
+| Easy | 4 |
 | Medium | 8 |
 | Hard | 0 |
 
