@@ -128,5 +128,18 @@
     "submissionId": "2117379423",
     "timestamp": "1787491580",
     "path": "Medium/0038_Count_and_Say.java"
+  },
+  {
+    "problemId": "165",
+    "problemTitle": "Compare Version Numbers",
+    "problemSlug": "compare-version-numbers",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.8 MB",
+    "submissionId": "2117783723",
+    "timestamp": "1787514815",
+    "path": "Medium/0165_Compare_Version_Numbers.java"
   }
 ]
