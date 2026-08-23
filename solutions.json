@@ -180,5 +180,18 @@
     "submissionId": "2117811963",
     "timestamp": "1787517959",
     "path": "Medium/0053_Maximum_Subarray.java"
+  },
+  {
+    "problemId": "75",
+    "problemTitle": "Sort Colors",
+    "problemSlug": "sort-colors",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.6 MB",
+    "submissionId": "2117812071",
+    "timestamp": "1787517972",
+    "path": "Medium/0075_Sort_Colors.java"
   }
 ]
