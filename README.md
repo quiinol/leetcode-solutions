@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 15
+Total Solved: 16
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 15
 - Longest Common Prefix ([Java](Easy/0014_Longest_Common_Prefix.java))
 - Find the Index of the First Occurrence in a String ([Java](Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.java))
 - Pascal's Triangle ([Java](Easy/0118_Pascals_Triangle.java))
+- Best Time to Buy and Sell Stock ([Java](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java))
 
 ## Medium
 
@@ -31,7 +32,7 @@ Total Solved: 15
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 4 |
+| Easy | 5 |
 | Medium | 11 |
 | Hard | 0 |
 
