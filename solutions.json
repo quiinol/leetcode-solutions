@@ -167,5 +167,18 @@
     "submissionId": "2117811693",
     "timestamp": "1787517927",
     "path": "Medium/0031_Next_Permutation.java"
+  },
+  {
+    "problemId": "53",
+    "problemTitle": "Maximum Subarray",
+    "problemSlug": "maximum-subarray",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "80.7 MB",
+    "submissionId": "2117811963",
+    "timestamp": "1787517959",
+    "path": "Medium/0053_Maximum_Subarray.java"
   }
 ]
