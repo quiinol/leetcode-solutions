@@ -115,5 +115,18 @@
     "submissionId": "2115450266",
     "timestamp": "1787339252",
     "path": "Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.java"
+  },
+  {
+    "problemId": "38",
+    "problemTitle": "Count and Say",
+    "problemSlug": "count-and-say",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "42.9 MB",
+    "submissionId": "2117379423",
+    "timestamp": "1787491580",
+    "path": "Medium/0038_Count_and_Say.java"
   }
 ]
