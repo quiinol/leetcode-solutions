@@ -141,5 +141,18 @@
     "submissionId": "2117783723",
     "timestamp": "1787514815",
     "path": "Medium/0165_Compare_Version_Numbers.java"
+  },
+  {
+    "problemId": "118",
+    "problemTitle": "Pascal's Triangle",
+    "problemSlug": "pascals-triangle",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "43.6 MB",
+    "submissionId": "2117811450",
+    "timestamp": "1787517894",
+    "path": "Easy/0118_Pascals_Triangle.java"
   }
 ]
