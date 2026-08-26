@@ -232,5 +232,18 @@
     "submissionId": "2120820094",
     "timestamp": "1787749911",
     "path": "Medium/0056_Merge_Intervals.java"
+  },
+  {
+    "problemId": "88",
+    "problemTitle": "Merge Sorted Array",
+    "problemSlug": "merge-sorted-array",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "4 ms",
+    "memory": "44.2 MB",
+    "submissionId": "2120820728",
+    "timestamp": "1787749953",
+    "path": "Easy/0088_Merge_Sorted_Array.java"
   }
 ]
