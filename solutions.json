@@ -219,5 +219,18 @@
     "submissionId": "2120819568",
     "timestamp": "1787749878",
     "path": "Medium/0048_Rotate_Image.java"
+  },
+  {
+    "problemId": "56",
+    "problemTitle": "Merge Intervals",
+    "problemSlug": "merge-intervals",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "8 ms",
+    "memory": "49.2 MB",
+    "submissionId": "2120820094",
+    "timestamp": "1787749911",
+    "path": "Medium/0056_Merge_Intervals.java"
   }
 ]
