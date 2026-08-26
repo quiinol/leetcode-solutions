@@ -245,5 +245,18 @@
     "submissionId": "2120820728",
     "timestamp": "1787749953",
     "path": "Easy/0088_Merge_Sorted_Array.java"
+  },
+  {
+    "problemId": "287",
+    "problemTitle": "Find the Duplicate Number",
+    "problemSlug": "find-the-duplicate-number",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "4 ms",
+    "memory": "83 MB",
+    "submissionId": "2120821245",
+    "timestamp": "1787749986",
+    "path": "Medium/0287_Find_the_Duplicate_Number.java"
   }
 ]
