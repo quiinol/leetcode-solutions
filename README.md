@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-Total Solved: 18
+Total Solved: 19
 
 ## Easy
 
 - Roman to Integer ([Java](Easy/0013_Roman_to_Integer.java))
 - Longest Common Prefix ([Java](Easy/0014_Longest_Common_Prefix.java))
 - Find the Index of the First Occurrence in a String ([Java](Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.java))
+- Merge Sorted Array ([Java](Easy/0088_Merge_Sorted_Array.java))
 - Pascal's Triangle ([Java](Easy/0118_Pascals_Triangle.java))
 - Best Time to Buy and Sell Stock ([Java](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java))
 
@@ -34,7 +35,7 @@ Total Solved: 18
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 5 |
+| Easy | 6 |
 | Medium | 13 |
 | Hard | 0 |
 
