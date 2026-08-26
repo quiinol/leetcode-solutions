@@ -206,5 +206,18 @@
     "submissionId": "2117812184",
     "timestamp": "1787517986",
     "path": "Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java"
+  },
+  {
+    "problemId": "48",
+    "problemTitle": "Rotate Image",
+    "problemSlug": "rotate-image",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.9 MB",
+    "submissionId": "2120819568",
+    "timestamp": "1787749878",
+    "path": "Medium/0048_Rotate_Image.java"
   }
 ]
