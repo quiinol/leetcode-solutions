@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 16
+Total Solved: 17
 
 ## Easy
 
@@ -17,6 +17,7 @@ Total Solved: 16
 - String to Integer (atoi) ([Java](Medium/0008_String_to_Integer_atoi.java))
 - Next Permutation ([Java](Medium/0031_Next_Permutation.java))
 - Count and Say ([Java](Medium/0038_Count_and_Say.java))
+- Rotate Image ([Java](Medium/0048_Rotate_Image.java))
 - Maximum Subarray ([Java](Medium/0053_Maximum_Subarray.java))
 - Set Matrix Zeroes ([Java](Medium/0073_Set_Matrix_Zeroes.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
@@ -33,7 +34,7 @@ Total Solved: 16
 | Difficulty | Count |
 |------------|--------|
 | Easy | 5 |
-| Medium | 11 |
+| Medium | 12 |
 | Hard | 0 |
 
 ---
