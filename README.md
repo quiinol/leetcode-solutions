@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 19
+Total Solved: 20
 
 ## Easy
 
@@ -25,6 +25,7 @@ Total Solved: 19
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Reverse Words in a String ([Java](Medium/0151_Reverse_Words_in_a_String.java))
 - Compare Version Numbers ([Java](Medium/0165_Compare_Version_Numbers.java))
+- Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
 - Repeated String Match ([Java](Medium/0686_Repeated_String_Match.java))
 
 ## Hard
@@ -36,7 +37,7 @@ Total Solved: 19
 | Difficulty | Count |
 |------------|--------|
 | Easy | 6 |
-| Medium | 13 |
+| Medium | 14 |
 | Hard | 0 |
 
 ---
