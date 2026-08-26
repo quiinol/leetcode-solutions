@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 17
+Total Solved: 18
 
 ## Easy
 
@@ -19,6 +19,7 @@ Total Solved: 17
 - Count and Say ([Java](Medium/0038_Count_and_Say.java))
 - Rotate Image ([Java](Medium/0048_Rotate_Image.java))
 - Maximum Subarray ([Java](Medium/0053_Maximum_Subarray.java))
+- Merge Intervals ([Java](Medium/0056_Merge_Intervals.java))
 - Set Matrix Zeroes ([Java](Medium/0073_Set_Matrix_Zeroes.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Reverse Words in a String ([Java](Medium/0151_Reverse_Words_in_a_String.java))
@@ -34,7 +35,7 @@ Total Solved: 17
 | Difficulty | Count |
 |------------|--------|
 | Easy | 5 |
-| Medium | 12 |
+| Medium | 13 |
 | Hard | 0 |
 
 ---
