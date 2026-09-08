@@ -258,5 +258,18 @@
     "submissionId": "2120821245",
     "timestamp": "1787749986",
     "path": "Medium/0287_Find_the_Duplicate_Number.java"
+  },
+  {
+    "problemId": "62",
+    "problemTitle": "Unique Paths",
+    "problemSlug": "unique-paths",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "41.9 MB",
+    "submissionId": "2134858331",
+    "timestamp": "1788855859",
+    "path": "Medium/0062_Unique_Paths.java"
   }
 ]
