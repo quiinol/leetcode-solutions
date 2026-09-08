@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 20
+Total Solved: 21
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 20
 - Rotate Image ([Java](Medium/0048_Rotate_Image.java))
 - Maximum Subarray ([Java](Medium/0053_Maximum_Subarray.java))
 - Merge Intervals ([Java](Medium/0056_Merge_Intervals.java))
+- Unique Paths ([Java](Medium/0062_Unique_Paths.java))
 - Set Matrix Zeroes ([Java](Medium/0073_Set_Matrix_Zeroes.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Reverse Words in a String ([Java](Medium/0151_Reverse_Words_in_a_String.java))
@@ -37,7 +38,7 @@ Total Solved: 20
 | Difficulty | Count |
 |------------|--------|
 | Easy | 6 |
-| Medium | 14 |
+| Medium | 15 |
 | Hard | 0 |
 
 ---
