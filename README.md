@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 23
+Total Solved: 24
 
 ## Easy
 
@@ -25,6 +25,7 @@ Total Solved: 23
 - Unique Paths ([Java](Medium/0062_Unique_Paths.java))
 - Set Matrix Zeroes ([Java](Medium/0073_Set_Matrix_Zeroes.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
+- Decode Ways ([Java](Medium/0091_Decode_Ways.java))
 - Reverse Words in a String ([Java](Medium/0151_Reverse_Words_in_a_String.java))
 - Compare Version Numbers ([Java](Medium/0165_Compare_Version_Numbers.java))
 - House Robber ([Java](Medium/0198_House_Robber.java))
@@ -40,7 +41,7 @@ Total Solved: 23
 | Difficulty | Count |
 |------------|--------|
 | Easy | 7 |
-| Medium | 16 |
+| Medium | 17 |
 | Hard | 0 |
 
 ---
