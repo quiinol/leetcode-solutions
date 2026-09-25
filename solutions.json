@@ -284,5 +284,18 @@
     "submissionId": "2152846942",
     "timestamp": "1790329294",
     "path": "Easy/0070_Climbing_Stairs.java"
+  },
+  {
+    "problemId": "198",
+    "problemTitle": "House Robber",
+    "problemSlug": "house-robber",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.8 MB",
+    "submissionId": "2152903370",
+    "timestamp": "1790333659",
+    "path": "Medium/0198_House_Robber.java"
   }
 ]
