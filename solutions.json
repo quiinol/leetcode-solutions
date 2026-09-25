@@ -297,5 +297,18 @@
     "submissionId": "2152903370",
     "timestamp": "1790333659",
     "path": "Medium/0198_House_Robber.java"
+  },
+  {
+    "problemId": "91",
+    "problemTitle": "Decode Ways",
+    "problemSlug": "decode-ways",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "43 MB",
+    "submissionId": "2153038203",
+    "timestamp": "1790345076",
+    "path": "Medium/0091_Decode_Ways.java"
   }
 ]
