@@ -271,5 +271,18 @@
     "submissionId": "2134858331",
     "timestamp": "1788855859",
     "path": "Medium/0062_Unique_Paths.java"
+  },
+  {
+    "problemId": "70",
+    "problemTitle": "Climbing Stairs",
+    "problemSlug": "climbing-stairs",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "41.9 MB",
+    "submissionId": "2152846942",
+    "timestamp": "1790329294",
+    "path": "Easy/0070_Climbing_Stairs.java"
   }
 ]
