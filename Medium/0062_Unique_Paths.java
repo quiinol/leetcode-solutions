@@ -6,7 +6,7 @@
  * Runtime: 0 ms
  * Memory: 41.9 MB
  * Synced From: LeetCode
- * Date: 2026-09-08
+ * Date: 2026-10-07
  */
 
 class Solution {
