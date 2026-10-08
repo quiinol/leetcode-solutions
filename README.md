@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 24
+Total Solved: 25
 
 ## Easy
 
@@ -23,6 +23,7 @@ Total Solved: 24
 - Maximum Subarray ([Java](Medium/0053_Maximum_Subarray.java))
 - Merge Intervals ([Java](Medium/0056_Merge_Intervals.java))
 - Unique Paths ([Java](Medium/0062_Unique_Paths.java))
+- Unique Paths II ([Java](Medium/0063_Unique_Paths_II.java))
 - Set Matrix Zeroes ([Java](Medium/0073_Set_Matrix_Zeroes.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Decode Ways ([Java](Medium/0091_Decode_Ways.java))
@@ -41,7 +42,7 @@ Total Solved: 24
 | Difficulty | Count |
 |------------|--------|
 | Easy | 7 |
-| Medium | 17 |
+| Medium | 18 |
 | Hard | 0 |
 
 ---
