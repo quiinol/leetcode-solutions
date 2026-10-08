@@ -310,5 +310,18 @@
     "submissionId": "2153038203",
     "timestamp": "1790345076",
     "path": "Medium/0091_Decode_Ways.java"
+  },
+  {
+    "problemId": "63",
+    "problemTitle": "Unique Paths II",
+    "problemSlug": "unique-paths-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.6 MB",
+    "submissionId": "2166336087",
+    "timestamp": "1791465028",
+    "path": "Medium/0063_Unique_Paths_II.java"
   }
 ]
