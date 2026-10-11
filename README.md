@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 25
+Total Solved: 26
 
 ## Easy
 
@@ -35,7 +35,7 @@ Total Solved: 25
 
 ## Hard
 
-*No hard problems solved yet.*
+- Dungeon Game ([Java](Hard/0174_Dungeon_Game.java))
 
 ## Statistics
 
@@ -43,7 +43,7 @@ Total Solved: 25
 |------------|--------|
 | Easy | 7 |
 | Medium | 18 |
-| Hard | 0 |
+| Hard | 1 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
