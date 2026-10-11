@@ -323,5 +323,18 @@
     "submissionId": "2166336087",
     "timestamp": "1791465028",
     "path": "Medium/0063_Unique_Paths_II.java"
+  },
+  {
+    "problemId": "174",
+    "problemTitle": "Dungeon Game",
+    "problemSlug": "dungeon-game",
+    "difficulty": "Hard",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "45.4 MB",
+    "submissionId": "2169361786",
+    "timestamp": "1791729356",
+    "path": "Hard/0174_Dungeon_Game.java"
   }
 ]
