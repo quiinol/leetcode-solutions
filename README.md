@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 26
+Total Solved: 27
 
 ## Easy
 
@@ -32,6 +32,7 @@ Total Solved: 26
 - House Robber ([Java](Medium/0198_House_Robber.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
 - Repeated String Match ([Java](Medium/0686_Repeated_String_Match.java))
+- Minimum Falling Path Sum ([Java](Medium/0967_Minimum_Falling_Path_Sum.java))
 
 ## Hard
 
@@ -42,7 +43,7 @@ Total Solved: 26
 | Difficulty | Count |
 |------------|--------|
 | Easy | 7 |
-| Medium | 18 |
+| Medium | 19 |
 | Hard | 1 |
 
 ---
