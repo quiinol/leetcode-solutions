@@ -336,5 +336,18 @@
     "submissionId": "2169361786",
     "timestamp": "1791729356",
     "path": "Hard/0174_Dungeon_Game.java"
+  },
+  {
+    "problemId": "967",
+    "problemTitle": "Minimum Falling Path Sum",
+    "problemSlug": "minimum-falling-path-sum",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "7 ms",
+    "memory": "47.3 MB",
+    "submissionId": "2171538531",
+    "timestamp": "1791918382",
+    "path": "Medium/0967_Minimum_Falling_Path_Sum.java"
   }
 ]
