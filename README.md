@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 27
+Total Solved: 28
 
 ## Easy
 
@@ -31,6 +31,7 @@ Total Solved: 27
 - Compare Version Numbers ([Java](Medium/0165_Compare_Version_Numbers.java))
 - House Robber ([Java](Medium/0198_House_Robber.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
+- Range Sum Query 2D - Immutable ([Java](Medium/0304_Range_Sum_Query_2D_-_Immutable.java))
 - Repeated String Match ([Java](Medium/0686_Repeated_String_Match.java))
 - Minimum Falling Path Sum ([Java](Medium/0967_Minimum_Falling_Path_Sum.java))
 
@@ -43,7 +44,7 @@ Total Solved: 27
 | Difficulty | Count |
 |------------|--------|
 | Easy | 7 |
-| Medium | 19 |
+| Medium | 20 |
 | Hard | 1 |
 
 ---
