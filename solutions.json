@@ -349,5 +349,18 @@
     "submissionId": "2171538531",
     "timestamp": "1791918382",
     "path": "Medium/0967_Minimum_Falling_Path_Sum.java"
+  },
+  {
+    "problemId": "304",
+    "problemTitle": "Range Sum Query 2D - Immutable",
+    "problemSlug": "range-sum-query-2d-immutable",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "113 ms",
+    "memory": "140.6 MB",
+    "submissionId": "2178099234",
+    "timestamp": "1792598063",
+    "path": "Medium/0304_Range_Sum_Query_2D_-_Immutable.java"
   }
 ]
