@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 28
+Total Solved: 29
 
 ## Easy
 
@@ -34,6 +34,7 @@ Total Solved: 28
 - Range Sum Query 2D - Immutable ([Java](Medium/0304_Range_Sum_Query_2D_-_Immutable.java))
 - Repeated String Match ([Java](Medium/0686_Repeated_String_Match.java))
 - Minimum Falling Path Sum ([Java](Medium/0967_Minimum_Falling_Path_Sum.java))
+- Longest Common Subsequence ([Java](Medium/1250_Longest_Common_Subsequence.java))
 
 ## Hard
 
@@ -44,7 +45,7 @@ Total Solved: 28
 | Difficulty | Count |
 |------------|--------|
 | Easy | 7 |
-| Medium | 20 |
+| Medium | 21 |
 | Hard | 1 |
 
 ---
