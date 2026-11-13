@@ -362,5 +362,18 @@
     "submissionId": "2178099234",
     "timestamp": "1792598063",
     "path": "Medium/0304_Range_Sum_Query_2D_-_Immutable.java"
+  },
+  {
+    "problemId": "1250",
+    "problemTitle": "Longest Common Subsequence",
+    "problemSlug": "longest-common-subsequence",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "21 ms",
+    "memory": "53.5 MB",
+    "submissionId": "2195303057",
+    "timestamp": "1794576476",
+    "path": "Medium/1250_Longest_Common_Subsequence.java"
   }
 ]
